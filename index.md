@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### M5StickC
 
-You can use the [editor on GitHub](https://github.com/cosismo/M5StickC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenido al Internet de las Cosas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, te recomendamos las siguientes ligas:
 
-### Markdown
+TL;DR  Arduino IDE
+1. Agrega el dispositivo con Board Manager (es el mismo que ESP32):
+     https://dl.espressif.com/dl/package_esp32_index.json
+2. Instala la librería desde Manage Libraries. El nombre de la librería es: 
+        M5StickC
+3. Selecciona la tarjeta M5StickC y el baudrate 115200.
+4. Programa el ejemplo que encontrarás en el IDE de Arduino examples-M5StickC-basics-factory test
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Facebook.
+[Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
 
-```markdown
-Syntax highlighted code block
+* Documentación oficial del fabricante.
+[M5Stack Docs | M5StickC](https://docs.m5stack.com/#/en/core/m5stickc)
 
-# Header 1
-## Header 2
-### Header 3
+* Programación con Arduino IDE
+[M5StickC Quick Start - Arduino Win](https://docs.m5stack.com/#/en/quick_start/m5stickc/m5stickc_quick_start_with_arduino_Windows?id=_2-install-esp32-boards-manager)
 
-- Bulleted
-- List
+* Videos
+[Tutorial para programar con Arduino IDE](https://www.youtube.com/watch?v=ppXkl0046dc)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+* Información general del ESP32
+[ESP32 docs en Cosismo](https://cosismo.github.io/esp32-devkit/)
 
-[Link](url) and ![Image](src)
-```
+* Foro oficial del fabricante.
+[Foro oficial de M5Stack, fabricante de M5StickC](http://community.m5stack.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosismo/M5StickC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Equipo Cosismo
