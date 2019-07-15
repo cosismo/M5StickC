@@ -8,6 +8,7 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 1. Conectar G0 a 3V3. 
 2. Conecter el cable usb. 
 3. Cargar el dispositivo al menos 2 horas. Después de esto, desconecta G0 a 3.3V y podrás programar normalmente con la IDE de Arduino.
+4. Te recomendamos que no dejes que la batería se descargue totalmente, puesto que tendrás que repetir este procedimiento.  El tiempo en standby  de la batería es de aproximadamente 10 horas. Corriendo un sketch es muy variable. Lo que más consume es WiFi/BLE y el display.
 
 ![m5stick](m5stickc_05.jpg)  
 
@@ -17,8 +18,8 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 2. Instala la librería desde Manage Libraries. El nombre de la librería es: 
         M5StickC
 3. Selecciona la tarjeta M5StickC y el baudrate 115200.
-4. Programa el ejemplo que encontrarás en el IDE de Arduino examples-M5StickC-basics-factory test  
----PROTIP: Para cargar el sketch deja desconectado cualquier cable de los GPIOs y presiona el botón de power mientras se está subiendo el sketch.  
+4. Programa el ejemplo que encontrarás en el IDE de Arduino examples/ExamplesFromCustomLibraries/M5StickC/Games/FlappyBird   
+-PROTIP: Para cargar el sketch deja desconectado cualquier cable de los GPIOs y presiona el botón de power mientras se está subiendo el sketch.  
 
 * Programación con Arduino IDE (versión larga)
 [M5StickC Quick Start - Arduino Win](https://docs.m5stack.com/#/en/quick_start/m5stickc/m5stickc_quick_start_with_arduino_Windows?id=_2-install-esp32-boards-manager)
@@ -34,6 +35,9 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 
 * Foro oficial del fabricante.
 [Foro oficial de M5Stack, fabricante de M5StickC](http://community.m5stack.com/)
+
+*Código en Github relacionado con el M5StickC:
+[M5StickC en Github](https://github.com/search?q=m5stickc)
 
 * Información general del ESP32
 [ESP32 docs en Cosismo](https://cosismo.github.io/esp32-devkit/)
