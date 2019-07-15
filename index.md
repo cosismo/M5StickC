@@ -7,8 +7,9 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 * Encender por primera vez. Al llegar de fábrica la batería estará descargada y por cuestiones de diseño, el M5StickC no arrancará hasta que sigas el siguiente procedimiento: 
 1. Conectar G0 a 3V3. 
 2. Conecter el cable usb. 
-3. Cargar el dispositivo al menos 2 horas. Después de esto, desconecta G0 a 3.3V y podrás programar normalmente con la IDE de Arduino.
-4. Te recomendamos que no dejes que la batería se descargue totalmente, puesto que tendrás que repetir este procedimiento.  El tiempo en standby  de la batería es de aproximadamente 12 horas. Corriendo un sketch es muy variable. Lo que más consume es WiFi/BLE y el display.
+3. Cargar el dispositivo al menos 2 horas. Después de esto, desconecta G0 a 3.3V y podrás programar normalmente con la IDE de Arduino. (En la siguiente sección de este documento se explica cómo programar con la IDE de Arduino).
+4. Una vez que cargues el sketch presiona dos segundos el botón de power para encender y 6 segundos para apagar. 
+5. Te recomendamos que no dejes que la batería se descargue totalmente, puesto que tendrás que repetir este procedimiento.  El tiempo en standby  de la batería es de aproximadamente 12 horas. Corriendo un sketch es muy variable. Lo que más consume es WiFi/BLE y el display.
 
 ![m5stick](m5stickc_05.jpg)  
 
