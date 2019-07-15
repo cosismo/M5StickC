@@ -40,5 +40,5 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 
 
 
-¡Suerte!
+¡Suerte!  
   Equipo Cosismo
