@@ -25,14 +25,14 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 * Programación con Arduino IDE (versión larga)
 [M5StickC Quick Start - Arduino Win](https://docs.m5stack.com/#/en/quick_start/m5stickc/m5stickc_quick_start_with_arduino_Windows?id=_2-install-esp32-boards-manager)
 
+* Video Arduino IDE.
+[Tutorial para programar con Arduino IDE](https://www.youtube.com/watch?v=ppXkl0046dc)
+
 * Facebook.
 [Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
 
 * Documentación oficial del fabricante.
 [M5Stack Docs | M5StickC](https://docs.m5stack.com/#/en/core/m5stickc)
-
-* Videos
-[Tutorial para programar con Arduino IDE](https://www.youtube.com/watch?v=ppXkl0046dc)
 
 * Foro oficial del fabricante.
 [Foro oficial de M5Stack, fabricante de M5StickC](http://community.m5stack.com/)
