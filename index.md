@@ -9,7 +9,7 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 2. Conectes el cable usb. 
 3. dejes cargando el dispositivo al menos 2 horas. Después de esto, desconecta G0 a 3.3V y podrás programar normalmente con la IDE de Arduino.
 
-![m5stick](m5stickc_05.jpg)
+![m5stick](m5stickc_05.jpg)  
 
 * TL;DR  Arduino IDE
 1. Agrega el dispositivo con Board Manager (es el mismo que ESP32):
@@ -18,7 +18,7 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
         M5StickC
 3. Selecciona la tarjeta M5StickC y el baudrate 115200.
 4. Programa el ejemplo que encontrarás en el IDE de Arduino examples-M5StickC-basics-factory test  
----PROTIP: Para cargar el sketch deja desconectado cualquier cable de los GPIOs y presiona el botón de power mientras se está subiendo el sketch.
+---PROTIP: Para cargar el sketch deja desconectado cualquier cable de los GPIOs y presiona el botón de power mientras se está subiendo el sketch.  
 
 * Facebook.
 [Grupo de Facebook en español sobre Internet de las Cosas](https://www.facebook.com/groups/724628401049648/)
