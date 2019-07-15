@@ -36,8 +36,11 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 * Foro oficial del fabricante.
 [Foro oficial de M5Stack, fabricante de M5StickC](http://community.m5stack.com/)
 
-*Código en Github relacionado con el M5StickC:
+* Código en Github relacionado con el M5StickC:
 [M5StickC en Github](https://github.com/search?q=m5stickc)
+
+* Información detallada sobre el chip que maneja la carga de la batería dentro del M5StickC (en japonés, pero Google translate lo traduce automáticamente en Chrome). 
+[Examine the battery management AXP 192 of M5StickC](https://lang-ship.com/blog/?p=523#GetWarningLeve_006)
 
 * Información general del ESP32
 [ESP32 docs en Cosismo](https://cosismo.github.io/esp32-devkit/)
