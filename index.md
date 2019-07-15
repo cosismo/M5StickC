@@ -5,7 +5,7 @@ Bienvenido al Internet de las Cosas.
 Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, te recomendamos consultar siguiente información:
 
 * Encender por primera vez. Al llegar de fábrica la batería estará descargada y por cuestiones de diseño, el m5stickc no arrancará hasta que sigas el siguiente procedimiento: 
-1. Conectar G0 to 3V3. 
+1. Conectar G0 a 3V3. 
 2. Conecter el cable usb. 
 3. Cargar el dispositivo al menos 2 horas. Después de esto, desconecta G0 a 3.3V y podrás programar normalmente con la IDE de Arduino.
 
