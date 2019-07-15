@@ -12,7 +12,7 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 2. Instala la librería desde Manage Libraries. El nombre de la librería es: 
         M5StickC
 3. Selecciona la tarjeta M5StickC y el baudrate 115200.
-4. Programa el ejemplo que encontrarás en el IDE de Arduino examples-M5StickC-basics-factory test
+4. Programa el ejemplo que encontrarás en el IDE de Arduino examples-M5StickC-basics-factory test  
 ---PROTIP: Para cargar el sketch deja desconectado cualquier cable de los GPIOs y presiona el botón de power mientras se está subiendo el sketch.
 
 * Facebook.
@@ -27,12 +27,13 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 * Videos
 [Tutorial para programar con Arduino IDE](https://www.youtube.com/watch?v=ppXkl0046dc)
 
+* Foro oficial del fabricante.
+[Foro oficial de M5Stack, fabricante de M5StickC](http://community.m5stack.com/)
 
 * Información general del ESP32
 [ESP32 docs en Cosismo](https://cosismo.github.io/esp32-devkit/)
 
-* Foro oficial del fabricante.
-[Foro oficial de M5Stack, fabricante de M5StickC](http://community.m5stack.com/)
+
 
 ¡Suerte!
   Equipo Cosismo
