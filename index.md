@@ -39,7 +39,7 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 * Código en Github relacionado con el M5StickC:
 [M5StickC en Github](https://github.com/search?q=m5stickc)
 
-* Información detallada sobre el chip que maneja la carga de la batería dentro del M5StickC (en japonés, pero Google translate lo traduce automáticamente en Chrome). 
+* Información detallada sobre el chip que maneja la carga de la batería dentro del M5StickC (en japonés, pero Google translate lo traduce automáticamente en Chrome).  
 [Examine the battery management AXP 192 of M5StickC](https://lang-ship.com/blog/?p=523#GetWarningLeve_006)
 
 * Información general del ESP32
@@ -48,4 +48,4 @@ Para comenzar a utilizar tu M5StickC y encontrar toda la información técnica, 
 
 
 ¡Suerte!  
-  Equipo Cosismo
+&nbsp;&nbsp;Equipo Cosismo
